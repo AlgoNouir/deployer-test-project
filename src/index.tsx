@@ -4,7 +4,7 @@ import "./index.css";
 function App() {
   return (
     <div class="flex flex-col items-center justify-center h-screen">
-      <h1>THIS IS WORKS</h1>
+      <h1>HELLO WORLD</h1>
     </div>
   );
 }
