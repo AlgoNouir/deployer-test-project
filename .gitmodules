@@ -1,3 +1,4 @@
 [submodule "algonouir"]
 	path = algonouir
 	url = https://github.com/AlgoNouir/algonouir.git
+	onServer = true
